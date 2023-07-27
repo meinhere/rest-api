@@ -1,0 +1,100 @@
+{
+  "list": [
+    {
+      "kategori": "ukm",
+      "nama": "Blue Murder",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "bm.png"
+    },
+    {
+      "kategori": "ukm",
+      "nama": "EECOM",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "eecom.png"
+    },
+    {
+      "kategori": "ukm",
+      "nama": "INOVASI",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "inovasi.png"
+    },
+    {
+      "kategori": "ukm",
+      "nama": "ITC",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "itc.png"
+    },
+    {
+      "kategori": "ukm",
+      "nama": "Keluarga Muslim",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "kamus.png"
+    },
+    {
+      "kategori": "ukm",
+      "nama": "LPM Saint",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "lpm.png"
+    },
+    {
+      "kategori": "ukm",
+      "nama": "SOKET",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "soket.png"
+    },
+    {
+      "kategori": "ukm",
+      "nama": "Tim Olahraga Fakultas Teknik",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "tofatek.jpg"
+    },
+    {
+      "kategori": "himpunan",
+      "nama": "Himpunan Mahasiswa Mekatronika",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "himameka.png"
+    },
+    {
+      "kategori": "himpunan",
+      "nama": "Himpunan Mahasiwa Sistem Informasi",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "himasi.png"
+    },
+    {
+      "kategori": "himpunan",
+      "nama": "Himpunan Mahasiswa Elektro",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "himatro.png"
+    },
+    {
+      "kategori": "himpunan",
+      "nama": "Himpunan Mahasiswa Mesin",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "hmm.png"
+    },
+    {
+      "kategori": "himpunan",
+      "nama": "Himpunan Mahasiwa Teknik Industri",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "hmti.png"
+    },
+    {
+      "kategori": "fakultas",
+      "nama": "Badan Eksekutif Mahasiwa Fakultas Teknik",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "bem.png"
+    },
+    {
+      "kategori": "fakultas",
+      "nama": "Badan Kelengkapan",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "bk.png"
+    },
+    {
+      "kategori": "fakultas",
+      "nama": "Dewan Pertimbangan Mahasiswa",
+      "deskripsi": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "gambar": "dpm.png"
+    }
+  ]
+}
